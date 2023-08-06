@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "c70e4a6189c41d6282c8e2a11c58b085497f410a7005846c606d89bf9047bb18"
+build_start_time: [1668493152, 810312986]
+build_end_time: [1668493169, 296854972]
+inputs:
+  "/Users/a.s.pravieen/AndroidStudioProjects/insta_clon/insta_clon/macos/Flutter/GeneratedPluginRegistrant.swift": [1668493123, 483362674]
+  "/Users/a.s.pravieen/AndroidStudioProjects/insta_clon/insta_clon/macos/Runner/AppDelegate.swift": [1650264730, 0]
+  "/Users/a.s.pravieen/AndroidStudioProjects/insta_clon/insta_clon/macos/Runner/MainFlutterWindow.swift": [1650264730, 0]
