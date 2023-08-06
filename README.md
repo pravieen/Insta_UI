@@ -1,4 +1,4 @@
 # insta_clon
 
 
-<img width="459" alt="Screenshot 2023-08-06 at 7 06 04 PM" src="https://github.com/pravieen/Insta_UI/assets/100255410/e22f6bbe-309b-414f-b492-4818f958c6e8">
+<img width="359" alt="Screenshot 2023-08-06 at 7 06 04 PM" src="https://github.com/pravieen/Insta_UI/assets/100255410/06017aff-5732-480b-875d-1bc85a278ed5">
